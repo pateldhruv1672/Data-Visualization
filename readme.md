@@ -88,12 +88,3 @@ Developed as part of the **Data Visualization** course at San Jose State Univers
 <i>"Migration is a vital sign for our planet."</i>
 </p>
 
-```
-
-### 💡 Extra Professional Tips for your GitHub:
-
-1.  **Add a `GIF` or Screenshot:** GitHub allows you to display images. Take a screenshot of your Power BI dashboard and your best Python chart, then add them to a folder named `screenshots`. You can then embed them in the README using:
-    `![Dashboard Screenshot](./screenshots/dashboard_preview.png)`
-2.  **GitHub Pages:** Since you mentioned GitHub Pages, you can export your Jupyter Notebook as an **HTML** file (`index.html`) and enable Pages in settings. This allows recruiters to see your code and charts in a browser without downloading anything\!
-
-```
