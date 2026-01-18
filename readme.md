@@ -18,6 +18,17 @@
 * **Interactive Storytelling:** Built a dynamic Power BI dashboard for stakeholders.
 
 ---
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/503e28c0-115a-481e-898c-b9c42faa6aeb" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a274141-fd72-4ef3-8bb0-fde7c5be41d2" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c5b6c937-8c91-4a7a-ab52-5115b7314ee3" />
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/c330810f-47b0-4c4b-89c0-d863eb664e0d" />
+
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/76060a13-5a8c-472f-a160-dd5b8e5e99fd" />
+
+
+
+
+---
 
 ## 🛠️ The Analysis Workflow
 
